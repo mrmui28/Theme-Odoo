@@ -1,0 +1,10 @@
+{
+    "linters":{
+        
+       
+        "xml":{
+            "type" : "xml",
+            "include" : "(\\.xml$)"
+        }
+    }
+}
